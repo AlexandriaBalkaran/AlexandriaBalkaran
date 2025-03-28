@@ -1,6 +1,7 @@
 ## Hey there 👋
 
 ---
+# About me 😁
 
 Sales and Marketing expert turned Software Engineer!
 
