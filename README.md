@@ -1,7 +1,7 @@
-## Hey there 👋
+# Hey there 👋
 
 ---
-### About me 😁
+## About me 😁
 
 Sales and Marketing expert turned Software Engineer!
 
@@ -11,12 +11,10 @@ I’m combining my passion for tech with a strong foundation in business to buil
 
 Looking forward to connecting and working on new projects.
 
-🔭 I’m currently working on improving my personal project Pour Decisions - a happy hour finder for Toronto.
-
-📫 How to reach me: 
+### 📫 How to reach me: 
 - alexandriabalkaran@gmail.com
 - https://www.linkedin.com/in/alexandria-balkaran/
-- alexandriabalkaran.com 
+- http://alexandriabalkaran.com/
 
  
 <!--
